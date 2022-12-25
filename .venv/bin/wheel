@@ -1,4 +1,4 @@
-#!/home/carles/src/rsync-cloner/.venv/bin/python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import re
 import sys
